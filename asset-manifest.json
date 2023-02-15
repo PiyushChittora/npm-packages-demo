@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/packagesdemo/static/css/main.5c3c85df.css",
-    "main.js": "/packagesdemo/static/js/main.b7fbefb2.js",
-    "static/media/mha.jpg": "/packagesdemo/static/media/mha.261c74d8797ca0f415e8.jpg",
-    "static/media/batman.jpg": "/packagesdemo/static/media/batman.099b81f450a561eda8f3.jpg",
-    "static/media/horimiya.jpg": "/packagesdemo/static/media/horimiya.448c25c99e35c5c581a6.jpg",
-    "static/media/kaguya.jpg": "/packagesdemo/static/media/kaguya.26fbd4f276b6fa5eea8f.jpg",
-    "static/media/demonslayer.jpg": "/packagesdemo/static/media/demonslayer.c9de0a355a7a2a1c31f6.jpg",
-    "static/media/opm.jpg": "/packagesdemo/static/media/opm.ed8efcf0a861880f4683.jpg",
-    "index.html": "/packagesdemo/index.html",
-    "main.5c3c85df.css.map": "/packagesdemo/static/css/main.5c3c85df.css.map",
-    "main.b7fbefb2.js.map": "/packagesdemo/static/js/main.b7fbefb2.js.map"
+    "main.css": "/npm-packages-demo/static/css/main.5c3c85df.css",
+    "main.js": "/npm-packages-demo/static/js/main.880baef5.js",
+    "static/media/mha.jpg": "/npm-packages-demo/static/media/mha.261c74d8797ca0f415e8.jpg",
+    "static/media/batman.jpg": "/npm-packages-demo/static/media/batman.099b81f450a561eda8f3.jpg",
+    "static/media/horimiya.jpg": "/npm-packages-demo/static/media/horimiya.448c25c99e35c5c581a6.jpg",
+    "static/media/kaguya.jpg": "/npm-packages-demo/static/media/kaguya.26fbd4f276b6fa5eea8f.jpg",
+    "static/media/demonslayer.jpg": "/npm-packages-demo/static/media/demonslayer.c9de0a355a7a2a1c31f6.jpg",
+    "static/media/opm.jpg": "/npm-packages-demo/static/media/opm.ed8efcf0a861880f4683.jpg",
+    "index.html": "/npm-packages-demo/index.html",
+    "main.5c3c85df.css.map": "/npm-packages-demo/static/css/main.5c3c85df.css.map",
+    "main.880baef5.js.map": "/npm-packages-demo/static/js/main.880baef5.js.map"
   },
   "entrypoints": [
     "static/css/main.5c3c85df.css",
-    "static/js/main.b7fbefb2.js"
+    "static/js/main.880baef5.js"
   ]
 }
