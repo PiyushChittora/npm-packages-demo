@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/npm-packages-demo/static/css/main.5c3c85df.css",
-    "main.js": "/npm-packages-demo/static/js/main.67495d45.js",
+    "main.js": "/npm-packages-demo/static/js/main.833f0ead.js",
     "static/media/mha.jpg": "/npm-packages-demo/static/media/mha.261c74d8797ca0f415e8.jpg",
     "static/media/batman.jpg": "/npm-packages-demo/static/media/batman.099b81f450a561eda8f3.jpg",
     "static/media/horimiya.jpg": "/npm-packages-demo/static/media/horimiya.448c25c99e35c5c581a6.jpg",
@@ -10,10 +10,10 @@
     "static/media/opm.jpg": "/npm-packages-demo/static/media/opm.ed8efcf0a861880f4683.jpg",
     "index.html": "/npm-packages-demo/index.html",
     "main.5c3c85df.css.map": "/npm-packages-demo/static/css/main.5c3c85df.css.map",
-    "main.67495d45.js.map": "/npm-packages-demo/static/js/main.67495d45.js.map"
+    "main.833f0ead.js.map": "/npm-packages-demo/static/js/main.833f0ead.js.map"
   },
   "entrypoints": [
     "static/css/main.5c3c85df.css",
-    "static/js/main.67495d45.js"
+    "static/js/main.833f0ead.js"
   ]
 }
