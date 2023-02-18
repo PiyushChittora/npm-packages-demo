@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/npm-packages-demo/static/css/main.5c3c85df.css",
-    "main.js": "/npm-packages-demo/static/js/main.833f0ead.js",
-    "static/media/mha.jpg": "/npm-packages-demo/static/media/mha.261c74d8797ca0f415e8.jpg",
-    "static/media/batman.jpg": "/npm-packages-demo/static/media/batman.099b81f450a561eda8f3.jpg",
-    "static/media/horimiya.jpg": "/npm-packages-demo/static/media/horimiya.448c25c99e35c5c581a6.jpg",
-    "static/media/kaguya.jpg": "/npm-packages-demo/static/media/kaguya.26fbd4f276b6fa5eea8f.jpg",
-    "static/media/demonslayer.jpg": "/npm-packages-demo/static/media/demonslayer.c9de0a355a7a2a1c31f6.jpg",
-    "static/media/opm.jpg": "/npm-packages-demo/static/media/opm.ed8efcf0a861880f4683.jpg",
+    "main.js": "/npm-packages-demo/static/js/main.8e0fd73a.js",
+    "static/media/mha.jpg": "/npm-packages-demo/static/media/mha.c7f89f7ad33918583dfc.jpg",
+    "static/media/kaguya.jpg": "/npm-packages-demo/static/media/kaguya.ad78f94bb48dabc90153.jpg",
+    "static/media/demonslayer.jpg": "/npm-packages-demo/static/media/demonslayer.7a092e7dd2b5ed9b87ec.jpg",
+    "static/media/horimiya.jpg": "/npm-packages-demo/static/media/horimiya.791a10c16b40fc84a9a5.jpg",
+    "static/media/opm.jpg": "/npm-packages-demo/static/media/opm.107708023acdaf6ccb35.jpg",
+    "static/media/batman.jpg": "/npm-packages-demo/static/media/batman.43dcc1e617d3f4170a78.jpg",
     "index.html": "/npm-packages-demo/index.html",
     "main.5c3c85df.css.map": "/npm-packages-demo/static/css/main.5c3c85df.css.map",
-    "main.833f0ead.js.map": "/npm-packages-demo/static/js/main.833f0ead.js.map"
+    "main.8e0fd73a.js.map": "/npm-packages-demo/static/js/main.8e0fd73a.js.map"
   },
   "entrypoints": [
     "static/css/main.5c3c85df.css",
-    "static/js/main.833f0ead.js"
+    "static/js/main.8e0fd73a.js"
   ]
 }
